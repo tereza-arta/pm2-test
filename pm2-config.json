@@ -1,0 +1,14 @@
+{
+  "apps": [
+    {
+      "name": "node-web-server",
+      "cwd": "<user_home_dir>/<repo_name>",
+      "script": "app.js",
+      "watch": true,
+      "env": {
+        "EXPRESS_PORT": 3011
+      }
+
+    }
+  ]
+}
